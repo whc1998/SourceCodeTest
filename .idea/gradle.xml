@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/EventBus" />
+            <option value="$PROJECT_DIR$/animationAndWebTest" />
+            <option value="$PROJECT_DIR$/fragmenttest" />
+            <option value="$PROJECT_DIR$/hotfix" />
+            <option value="$PROJECT_DIR$/jingdong" />
+            <option value="$PROJECT_DIR$/newrecyclerview" />
+            <option value="$PROJECT_DIR$/rxjava" />
+            <option value="$PROJECT_DIR$/wechatlog" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

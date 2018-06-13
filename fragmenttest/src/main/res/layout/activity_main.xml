@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:id="@+id/framelayout"
+        android:layout_width="match_parent"
+        android:layout_height="100dp">
+
+    </FrameLayout>
+
+    <Button
+        android:id="@+id/button_chang1"
+        android:text="first"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+
+
+    <Button
+        android:id="@+id/button_chang2"
+        android:text="second"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+
+</LinearLayout>

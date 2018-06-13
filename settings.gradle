@@ -1,0 +1,1 @@
+include ':EventBus', ':newrecyclerview', ':hotfix', ':animationAndWebTest', ':fragmenttest', ':jingdong', ':wechatlog', ':rxjava'

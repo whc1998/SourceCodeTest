@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EventBus/EventBus.iml" filepath="$PROJECT_DIR$/EventBus/EventBus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RedrockTest.iml" filepath="$PROJECT_DIR$/RedrockTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animationAndWebTest/animationAndWebTest.iml" filepath="$PROJECT_DIR$/animationAndWebTest/animationAndWebTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EventBus/app.iml" filepath="$PROJECT_DIR$/EventBus/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmenttest/fragmenttest.iml" filepath="$PROJECT_DIR$/fragmenttest/fragmenttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotfix/hotfix.iml" filepath="$PROJECT_DIR$/hotfix/hotfix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jingdong/jingdong.iml" filepath="$PROJECT_DIR$/jingdong/jingdong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newrecyclerview/newrecyclerview.iml" filepath="$PROJECT_DIR$/newrecyclerview/newrecyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxjava/rxjava.iml" filepath="$PROJECT_DIR$/rxjava/rxjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animationAndWebTest/testanimation.iml" filepath="$PROJECT_DIR$/animationAndWebTest/testanimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wechatlog/wechatlog.iml" filepath="$PROJECT_DIR$/wechatlog/wechatlog.iml" />
+    </modules>
+  </component>
+</project>
