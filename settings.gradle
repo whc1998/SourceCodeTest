@@ -1,1 +1,1 @@
-include ':EventBus', ':newrecyclerview', ':hotfix', ':animationAndWebTest', ':fragmenttest', ':jingdong', ':wechatlog', ':rxjava'
+include ':EventBus', ':newrecyclerview', ':hotfix', ':animationAndWebTest', ':fragmenttest', ':jingdong', ':wechatlog', ':rxjava', ':servicetest', ':qqcomment'

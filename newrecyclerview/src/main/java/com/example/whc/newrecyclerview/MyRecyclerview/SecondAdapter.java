@@ -1,5 +1,6 @@
 package com.example.whc.newrecyclerview.MyRecyclerview;
 
+import android.annotation.SuppressLint;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.MotionEvent;
@@ -33,6 +34,7 @@ public class SecondAdapter extends RecyclerView.Adapter<SecondAdapter.MyHolder> 
         return new MyHolder(view);
     }
 
+    @SuppressLint("ClickableViewAccessibility")
     @Override
     public void onBindViewHolder(final MyHolder holder, int position) {
         holder.textView.setText(list.get(position));

@@ -1,6 +1,5 @@
 package com.example.whc.newrecyclerview;
 
-import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
@@ -10,7 +9,6 @@ import android.view.View;
 import android.widget.Toast;
 
 import com.chad.library.adapter.base.BaseQuickAdapter;
-import com.example.whc.newrecyclerview.MyRecyclerview.SecondActivity;
 
 import java.util.ArrayList;
 import java.util.List;

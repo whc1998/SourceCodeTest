@@ -10,7 +10,9 @@
       <module fileurl="file://$PROJECT_DIR$/hotfix/hotfix.iml" filepath="$PROJECT_DIR$/hotfix/hotfix.iml" />
       <module fileurl="file://$PROJECT_DIR$/jingdong/jingdong.iml" filepath="$PROJECT_DIR$/jingdong/jingdong.iml" />
       <module fileurl="file://$PROJECT_DIR$/newrecyclerview/newrecyclerview.iml" filepath="$PROJECT_DIR$/newrecyclerview/newrecyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qqcomment/qqcomment.iml" filepath="$PROJECT_DIR$/qqcomment/qqcomment.iml" />
       <module fileurl="file://$PROJECT_DIR$/rxjava/rxjava.iml" filepath="$PROJECT_DIR$/rxjava/rxjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicetest/servicetest.iml" filepath="$PROJECT_DIR$/servicetest/servicetest.iml" />
       <module fileurl="file://$PROJECT_DIR$/animationAndWebTest/testanimation.iml" filepath="$PROJECT_DIR$/animationAndWebTest/testanimation.iml" />
       <module fileurl="file://$PROJECT_DIR$/wechatlog/wechatlog.iml" filepath="$PROJECT_DIR$/wechatlog/wechatlog.iml" />
     </modules>
